@@ -1,0 +1,8 @@
+C:\Documents and Settings\Jonathan_Birkholz\My Documents\Visual Studio 2005\Projects\FluentExamples\FluentExamples\bin\Debug\FluentExamples.dll
+C:\Documents and Settings\Jonathan_Birkholz\My Documents\Visual Studio 2005\Projects\FluentExamples\FluentExamples\bin\Debug\FluentExamples.pdb
+C:\Documents and Settings\Jonathan_Birkholz\My Documents\Visual Studio 2005\Projects\FluentExamples\FluentExamples\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jonathan_Birkholz\My Documents\Visual Studio 2005\Projects\FluentExamples\FluentExamples\obj\Debug\FluentExamples.dll
+C:\Documents and Settings\Jonathan_Birkholz\My Documents\Visual Studio 2005\Projects\FluentExamples\FluentExamples\obj\Debug\FluentExamples.pdb
+C:\Documents and Settings\Jonathan_Birkholz\My Documents\Visual Studio 2005\Projects\FluentExamples\FluentExamples\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Jonathan_Birkholz\My Documents\Visual Studio 2005\Projects\FluentExamples\FluentExamples\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Jonathan_Birkholz\My Documents\Visual Studio 2005\Projects\FluentExamples\FluentExamples\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
